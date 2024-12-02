@@ -1,6 +1,6 @@
 # Decoding genomes with cogent3 + Plotly
 
-Source code demonsytrating the integration of Plotly visualisation capabilities into cogent3.
+Source code demonsytrating the integration of Plotly visualisation capabilities into cogent3 that was usded to produce the figures [in this blogpost](https://plotly.com/blog/decoding-genomes-cogent3-plotly/).
 
 ## Installation instructions
 
